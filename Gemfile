@@ -1,4 +1,4 @@
-require 'mail', '~> 2.6', '>= 2.6.3'
+require 'mail'
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
